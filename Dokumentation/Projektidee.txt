@@ -81,3 +81,32 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+
+Projektbeschreibung „Baumeister von Arkadia“
+
+•	Spieler entscheiden sich dazu Gebäude anzulegen oder Arbeiter einzusetzen
+
+•	Zusätzlich können („Baumeister“-)Fahnen eingesetzt werden
+
+•	Gebäude anlegen:
+-	Es wird eine Gebäudekarte vom Spieler gespielt, welche ein bestimmtes Gebäude darstellt (Form, Größe, „Auftraggeber“ = Farbe der Karte = Farbe des Siegels)
+-	Spieler wählt Platzierung des Gebäudes auf dem Spielfeld (muss entweder das "Kastell", ein weiteres Gebäude oder einen Arbeiter „berühren“ bzw. angrenzen)
+
+•	Arbeiter einsetzten:
+-	Spieler wählt ein bereits gesetztes Gebäude aus und platziert beliebig viele eigene oder neutrale Arbeiter auf freie Felder die senkrecht oder waagerecht an das Gebäude angrenzen
+
+•	Ein Gebäude ist fertiggestellt sobald es komplett durch andere Gebäude oder Arbeiter umschlossen ist, daraufhin erfolgt die Ausschüttung an die Spieler:
+-	Für jeden eigenen Arbeiter (der an das Gebäude angrenzend platziert ist) erhält der Spieler ein Siegel (jeder Spieler erhält für seine Arbeiter Siegel)
+-	Die Farbe des Siegels ist durch die Farbe des Siegels welches auf dem Gebäude liegt bestimmt (siehe „Gebäude anlegen“)
+-	Der Spieler der das Gebäude mit seinem Zug umschlossen hat erhält zusätzlich das Gebäudesigel
+
+•	Je fertiggestelltem Gebäude muss der Spieler am Zug einen Kastell-(Bau-)Stein auf den Bauplatz des Kastells platzieren
+
+•	Der Spieler kann am Ende des Zuges Baumeister-Fahnen einsetzen und erhält pro Fahne 2 eigene Arbeiter, zudem kann er bereits für sich eine Wertung durchführen und seine Siegel eintauschen
+
+•	Die gesammelten Siegel werden in Gold umgetauscht, dabei besitzen die Farben der Siegel unterschiedliche Wertigkeiten
+
+•	Die Anzahl der von oben sichtbaren farbigen Siegel welche auf die Kastell-steine gedruckt sind geben die Wertigkeit der Farbe an z.B.: es sind drei rote und zwei blaue Siegel auf den Kastellfeldern zu sehen, der Spieler besitzt je zwei rote und zwei blaue Siegel also bekommt er    3 * 2 = 6 Goldmünzen (rot) + 2 * 2 = 4 Goldmünzen (blau) = 10 G.
+
+•	Das Spiel endet sobald alle Kastellbausteine verbaut sind, anschließend wird die Wertung durchgeführt
